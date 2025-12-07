@@ -1,4 +1,4 @@
-# codeforces_solutions
+# Codeforces_Solutions
 
 ## Intro
 
